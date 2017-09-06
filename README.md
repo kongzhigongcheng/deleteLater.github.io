@@ -1,6 +1,6 @@
 # Adam Blog is a minimal clear theme for Jekyll
 
-![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg.jpg?raw=true)
+![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
 
 ## Demo
 
@@ -18,15 +18,16 @@ The post page would look like this:
 
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](http://fontawesome.io/)
+- [GitTalk](https://github.com/gitalk)
 - [Disqus](https://disqus.com/)
 - [MailChimp](https://mailchimp.com/)
 - [Analytics](https://analytics.google.com/analytics/web/)
 - [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+- [Bootstrap](https://getbootstrap.com/)
 
-## Installation:
-
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
-
-### License
+## License
 
 GNU General Public License v3.0
+
+## Contact Me
+QQ: 1604706321

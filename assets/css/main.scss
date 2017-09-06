@@ -1,3 +1,5 @@
+---
+---
 @import "variables";
 @import "syntax";
 @import "tools/normalize";
@@ -25,6 +27,7 @@ body {
   background-color: $white;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-overflow-scrolling: touch;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -113,6 +116,8 @@ pre {
   clear: both;
 }
 
+
+
 /* = = = = = = = = = = Header Styles = = = = = = = = = = */
 @import "parts/header";
 
@@ -145,4 +150,14 @@ pre {
 @import "parts/animate";
 
 /* = = = = = = = = = = Media = = = = = = = = = = */
-@import "media"
+@import "media";
+
+/* = = = = = = = = = = Bootstrap Fundation = = = = = = = = = = */
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+/* = = = = = = = = = = Bootstrap Tables = = = = = = = = = = */
+@import "bootstrap/tables";
+
+/* = = = = = = = = = = Bootstrap Panels = = = = = = = = = = */
+@import "bootstrap/panels";
