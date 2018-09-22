@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Spark Assembly Instructions
+title:  Sparc Assembly Instructions
 date:   2018-09-14 10:09:48 +0800
 description: Basic Sparc Instructions # Add post description (optional)
 img: sparclogo.jpg # Add image post (optional)
@@ -23,7 +23,6 @@ author: Zhang # Add name author (optional)
   - %sp,看作栈顶指针
   - %fp,看作栈底指针
   - %i7,函数被调用处的地址
-  - 
 </div>
 </div>
 
